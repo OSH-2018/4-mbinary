@@ -32,7 +32,7 @@ cache size      : 256 KB
 ### 检查 meltdown 补丁
 使用[spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker.git)检查是否有 meltdown 补丁
 
-结果是有
+结果是
 
 ![](src/patch-check.jpg)
 
